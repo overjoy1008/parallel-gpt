@@ -1,0 +1,6 @@
+/* 추가적인 우선순위를 위해 */
+:global(pre[class*="language-"]).codeBlock {
+    padding: 1em !important;
+    margin: 0 !important;
+    overflow: auto !important;
+}

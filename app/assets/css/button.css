@@ -1,0 +1,13 @@
+.main-button {
+    background: linear-gradient(to right, #f03f36, #ff6b64);
+    color: white;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+.disabled-button {
+    background-color: #bebebe;
+    color: white;
+    font-size: 28px;
+    cursor: not-allowed;
+}
